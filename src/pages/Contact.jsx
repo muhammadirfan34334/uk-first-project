@@ -6,7 +6,7 @@ const Contact = () => {
     <>
     <h1>Contact</h1>
       <Form.Group controlId="formFile" className="mb-3">
-        <Form.Label>irfan uk</Form.Label>
+        <Form.Label>zindgi</Form.Label>
         <Form.Control type="file" />
       </Form.Group>
       <Form.Group controlId="formFileMultiple" className="mb-3">
